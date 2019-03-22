@@ -10,9 +10,10 @@ Smart India Hackathon (SIH), Software Edition was conducted on **March 2 and Mar
 
 ### Lifestyle diseases 
 Common lifestyle diseases are:
-
+````
 -Type 2 Diabetes
 -Depression
 -Heart Diseases
 -Hypertension
 etc.
+````
