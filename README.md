@@ -8,12 +8,11 @@ Smart India Hackathon (SIH), Software Edition was conducted on **March 2 and Mar
 
 ## MH4 Lifestyle Disease Predictor 
 
-### lifestyle diseases 
-lifestyle diseases are:
-`````
+### Lifestyle diseases 
+Common lifestyle diseases are:
+
 -Type 2 Diabetes
 -Depression
 -Heart Diseases
 -Hypertension
 etc.
-`````
