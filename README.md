@@ -23,3 +23,4 @@ etc.
 
 ### Error page shown if random forest model is used
 
+![3](https://user-images.githubusercontent.com/25745034/54940918-b50d3e00-4f51-11e9-8113-dfee7027dc18.png)
