@@ -17,5 +17,9 @@ Common lifestyle diseases are:
 -Hypertension
 etc.
 ````
-
+### Basic Web App Layout:
 ![2](https://user-images.githubusercontent.com/25745034/54940613-0ff26580-4f51-11e9-9247-2017a79d8b0f.png)
+
+
+### Error page shown if random forest model is used
+
